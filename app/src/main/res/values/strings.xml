@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">William Hill Login APP</string>
+    <string name="guide_title">we</string>
+    <string name="about1">William Hill betting shops were founded in the United Kingdom by William Hill himself and have provided sports fans with a superior betting experience for over 87 years. Hill was a self-starter who staked everything on himself, and this philosophy has continued over for nearly a century as the betting and gaming company has grown to become a global leader in its field.
+William Hill crossed the Atlantic in 2012 and is now building its renowned sports book brand in the United State
+    William Hill PLC employs over 16,000 people and is one of the worlds top betting and gaming enterprises. Its origins are in the United Kingdom, where it was created in 1934 and is traded on the London Stock Exchange.
+    The majority of its $2.1 billion yearly revenue is still generated in the United Kingdom, where it has a nationwide presence of regulated betting offices as well as one of the largest online betting and gaming businesses.
+    When sports betting opens in the state, which is likely to happen in August pending regulatory clearances, William Hill will be the official sports book operator. William Hill mobile app, kiosks, and InPlay wagering menu will be available to bettors at both locations.</string>
+    <string name="about2">COMMONLY ASKED QUESTIONS</string>
+    <string name="about2_1">QUESTIONS ABOUT THE SUPER BOWL</string>
+    <string name="about2_1_1">When will bets be settled?</string>
+    <string name="about_con">Due to heavy volume, bet settlement and reimbursements following the Super Bowl may be delayed.
+All digital withdrawal transactions are scrutinized. Caesars should process your withdrawal request within 72 hours,
+        but it is frequently completed within a day or two. Please keep in mind that our process
+        is not the same as your bank – and once we have processed your withdrawal, it may take 2-5 additional
+        business days (in rare situations, a few of extra days) for your monies to arrive in your account.
+        While your funds will appear to be withdrawn from your account balance in your Caesars Wallet, don not panic,
+        they are being routed.</string>
+
+    <string name="basketball">
+    <![CDATA[<html>
+
+    <b>Basketball betting is comparable to football betting in many ways. The majority of bets are placed against the total point spread. Straight bets have odds of 11 to 10.<b/> <br/>
+
+
+    <b>Basketball Betting Example<b/> <br/>
+
+    <b>TIME	         BET#	        TEAM         LINE     TOTAL	        MONEY<b/> <br/>
+    <b>7:00 PM	     201	     WASHINGTON		           218	         +130<br/>
+    <b>              202	       NEW YORK	     -4 ½		             -150<br/> <br/>
+
+    In this case, New York is favored by four and a half points. For a player to win his bet, New York must win by 5 points or more. If the player wagers Washington (+4 12), the team must win outright or lose by four points or fewer in order for the player to win. Because a 12-point line is employed, there is no prospect of a tie.
+
+In this example, the Total (also known as Over/Under) is 218 (the total number of points scored by both teams). The player can bet that the final score will be greater or lesser than this figure. All points scored in overtime are counted toward the overall score. When betting on totals, the odds are 11 to 10 unless otherwise specified.
+    </html>]]>
+    </string>
+
+    <string name="football">
+         <![CDATA[<html>
+
+         <b> A straight bet on the pointspread is the most basic way to gamble on football. A straight bet requires the team on which the player is betting to cover the pointspread. This means that the favorite side must win by a certain amount of points, or else the underdog will receive that number of points. Pointspread wagers are frequently offered at odds of 11 to 10. This means the bettor must lay $11 for every $10 he hopes to win. As a result, when betting on a pointspread, it is common to bet in $11 increments ($22, $55, $110, $550, and so on).<b/>
+
+         <b>NOTE: Pointspreads fluctuate, but in sports betting the odds when the bet is placed are “fixed.” The listed pointspread at the time of the wager, which is printed on the ticket, may be different than the opening or closing pointspread of the game and the odds appearing on the wagering sheets.<b/>
+         <b><b/>
+
+      </html>]]>
+    </string>
+
+    <string name="baseball">
+        <![CDATA[<html>
+
+        <b>Baseball betting is done on a money line, which means you can lay or take money odds. In contrast to point spread bets, the reward on a winning selection is determined by the odds. Baseball odds are given as a three-digit money line. Every money line is based on $100.<br/>
+        <b>When betting the Run Line or Total, the game must go 9 innings or 8 ½ innings if the home team is ahead. Both listed pitchers must start the game or the bet is refunded. All runs scored in extra innings count in total bets.<br/>
+<b>In baseball, a parlay can include up to ten teams, with a maximum of ten underdogs. The maximum payout shall not be greater than 720 to 1. Parlays may also include totals. During a parlay. The bet is a loser if none of the teams chosen win. A rain-out, cancellation, or tie reduces the parlay to the next lowest number of games. For example, a four-team parlay with one rain-out game becomes a three-team parlay; a two-team parlay with one rain-out game becomes a straight bet on the remaining game.<br/>
+     </html>]]>
+    </string>
+
+    <string name="soccer">
+        <![CDATA[<html>
+
+        <b>Unless otherwise noted on the sports sheets or display boards, full game soccer wagers are official when a full soccer game (90 minutes of play plus injury time) is completed. Unless otherwise noted on the sports sheets or display boards, the outcomes of any additional time period(s) or penalty kick shootouts are not considered to determine winning or losing wagers in a soccer wager.<b/>
+         <b>Soccer events can be three-way (Team A, Team B, and Draw) or two-way (Team A, Team B, and Draw) (Team A or Team B). When betting on the 3-way moneyline, you have three possibilities. Your chosen option must be right for your wager to be successful. For example, if you chose Team B and the event finishes in a Draw, your selection on Team B is null and void.<b/>
+
+        </html>]]>
+</string>
+    <string name="horse_racing">
+        <![CDATA[<html>
+
+        <b>How to Make a Bet<br/>
+        <b>Please provide the following information to the ticket writer:<br/>
+        <b>Track Name<br/>
+        <b>Race Number<br/>
+        <b>Amount<br/>
+        <b>Type of wager<br/>
+        <b>Horse Number (s)<br/>
+
+        <b>WIN (W) – To receive the win payoff, your horse must finish first.<br/>
+        <b>PLACE (P) - To receive the place payoff, your horse must finish first or second.<br/>
+        <b>SHOW (S) - To receive the show payment, your horse must place first, second, or third.<br/>
+        <b>DAILY DOUBLE (DD) – You must pick the winners of two consecutive races set by the track. The first two races, and sometimes the last two races, are usually designated by the track. Daily Double bets must be placed prior to the first race of the wager.<br/>
+        <b>EXACTA (EX) – In one race, you pick two horses to finish first and second in the exact order you choose. This wager must be placed prior to the first race in the wager.<br/>
+        <b><br/>
+        <b><br/>
+        <b><br/>
+
+
+</html>]]>
+    </string>
+
+<string name="auto_racing">
+    <![CDATA[<html>
+
+    <b>The reward for a winning selection is determined by the odds.<br/>
+    <b>In a head-to-head wager, two drivers compete in auto racing. The match-up is won by the driver who finished first in the race. Multiple drivers are sometimes listed in a group, and the driver with the best finish in the group wins the wager.<br/>
+    <b>Other props, such as the number of cautions in the race or which vehicle manufacturer wins, may also be offered.<br/>
+    <b>Other series and open wheel races use lines as well.<br/>
+    <b>When we examine a betting site, we look for quality and security. When sifting through the many betting sites available, we want to see a commitment to car racing and experience in this industry. We will never suggest a site to our readers if we are not completely convinced that it is up to the task. It is simple for a betting site to claim to be the greatest, but the evidence is in the pudding. <br/>
+
+    </html>]]>
+    </string>
+
+    <string name="boxing_mma">
+    <![CDATA[<html>
+
+    <b>Introduction to Betting on Boxing/MMA<br/>
+    <b>Do you want to bet on boxing or MMA? A smart place to begin is to become acquainted with boxing odds and understand how to bet on boxing! The money line, like in baseball and hockey, is used to show the odds of victory in boxing and MMA.<br/>
+
+    <b>Boxing Betting: How to Place Bets on Boxing and MMA Fights<br/>
+    <b>The favorite is indicated by a negative (-) on the electronic wagering display and wagering sheets. The plus (+) symbol represents the underdog.<br/>
+
+    <b>Boxing Lines and Boxing Betting Odds Explained<br/>
+    <b>In this case, Floyd Mayweather is the favorite, and the player must lay $150 to win $100, or lay $15 to win $10. As a result, the stake on Manny Pacquiao would be $100 to win $130 or $10 to win $13. Wagers on who will win the bout are reimbursed if the fight is a draw.<br/>
+
+    </html>]]>
+    </string>
+
+    <string name="hockey">
+    <![CDATA[<html>
+
+     <b>Introduction to Betting on Hockey<br/>
+
+     <b>Hockey wagering is based on a money line, and there are betting possibilities depending on this.<br/>
+
+     <b>Hockey Betting Spreads and Hockey Betting Lines<br/>
+
+     <b>You can also bet on the point spread or "Puck Line," in which Pittsburgh is a -1 1/2 goal favorite, which means that for every $100 wagered on Pittsburgh, you will receive $160, but Pittsburgh must win by two goals or more. A bet on Detroit, +1 1/2 goal, would win $100 for every $180 wagered or $10 for every $18 wagered, and Detroit must win or lose by less than a goal. A bet of $18 would yield a return of $28.<br/>
+     <b>In the event of a shootout, the winner is awarded one goal, which is evaluated in determining the winner and loser and counts toward the game total.<br/>
+
+
+
+
+
+
+
+
+     </html>]]>
+    </string>
+</resources>

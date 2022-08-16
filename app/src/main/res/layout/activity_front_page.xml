@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgw1"
+    tools:context=".FrontPage">
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/navbar"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/customborder"
+        app:background="@drawable/navbar"
+        android:src="@drawable/navbar"/>
+
+    <Button
+        android:id="@+id/homeButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:background="@drawable/button"
+        app:backgroundTint="#CB8EE1"
+        android:textStyle="bold"
+        android:text="KICK OFF" />
+
+    <TextView
+        android:id="@+id/tx1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="ABOUT"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/bn1"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/customborder2"
+        android:src="@drawable/banner1"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/tx2"
+        android:text="QUESTION"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageButton
+        android:id="@+id/bn2"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/customborder2"
+        android:src="@drawable/banner2"
+        android:scaleType="fitXY"/>
+
+
+</LinearLayout>
+
+</ScrollView>
